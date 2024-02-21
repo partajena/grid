@@ -1,0 +1,5 @@
+The main difference between them is that justify-items apply to grid containers and justify-self applies to grid items.
+
+
+Let us understand them by taking an example, below code, for example having 6 grid items arranged in a 3x2 
+grid.
